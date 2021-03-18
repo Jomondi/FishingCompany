@@ -1,0 +1,7 @@
+Boat_id,Boat_Name,Boat_Size(Metric Tones),Boat_Length(Meters),Station_id,Boat_Capacity,Fishing(Y/N)
+673,Lucia,350,17,B57H,7,Y
+987,Shark Tooth,891,20,D7A9,9,Y
+456,Kohler,781,20,4U2J,10,N
+345,Bowen,1000,25,31K3,15,Y
+298,Hyacinth,731,22,K981,12,N
+197,Dawson,567,39,HY1K,20,Y
